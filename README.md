@@ -2,6 +2,7 @@
 This will be a collection of reading notes from ***Code 201***. Here I can organize my thoughts and showcase my knowledge about the various topics that will be covered throughout this course.
 
 ![Reading Notes Intro](images/reading-notes.jpg)
+> Photo by Thought Catalog on Unsplash
 
 ## Table of Contents:
 1. 

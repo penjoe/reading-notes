@@ -1,5 +1,7 @@
 # Introductory HTML and JavaScript
 
+[Home](https://penjoe.github.io/reading-notes/)
+
 ### Web Design Basics
 
 Modern web pages use a combination of programming languages to display what the end user see in their browser. The three rimary languages used for web pages are HTML, CSS and JavaScript. Each of the three languages have their own specific purpose. HTML provides the structure of the web page. This is the first thing the browser sees when you load a web page. Next, CSS adds styling to the HTML elements, adding visual appeal to a page. Finally, JavaScript adds function to a web page. These three languages together allow web developers to create visually appealing, dynamically functioning web experiences that the end user is able to enjoy simply by typing a web address into their browser. Lets take a look at how this all fits together.

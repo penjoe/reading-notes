@@ -36,10 +36,19 @@ That would change the background color blue when you loaded in the web page. And
 Using HTML and CSS, you can create a structure and give it an appealing presentation that will keep users on your page and give them reason to come back in the future. Using JavaScript, you can add yet another layer to your web page to give it more life and make it much more user friendly. 
 
 ### JavaScript
-Now that we know how to make a basic structure of HTML and give it some style with CSS, JavaScript will allow us to take the next step by adding dynamic functionality. A script is simply a set of instructions the browser will use to perform a task. Like a baker will follow a recipe for a cake, a web browser or computer will follow a script to do a thing. For example, 
+Now that we know how to make a basic structure of HTML and give it some style with CSS, JavaScript will allow us to take the next step by adding dynamic functionality. A script is simply a set of instructions the browser will use to perform a task. Like a baker will follow a recipe for a cake, a web browser or computer will follow a script to do a thing. Here's a small example:
+
 ```
-document.write('Hello World!');
+var greeting = 'Howdy ';
+var name = 'Joe';
+var message = ', please check your order:';
+var welcome = greeting + name + message;
 ```
-When the browser runs across this script, it will print "Hello World!" on the page where the script is on the HTMl. JavaScript can also get complex as more lines of code is added, but as with any language, it's all done according to proper logic. And since it's read top down, we can know in what order a script will be run and where on the page it will run from. 
+What the above script is doing is declaring variables for a welcome message. Variables? What are those? Variables act as storage containers in JS to store a value we want to use later. So `var name` means we are declaring that `name` is a variable. What will the value be that we are storing in `name`? Looking back up at the example, the value we are assigning to `name` is Joe. If the example script were to run, it would assign values to the first two variable and concatenate, or combine, those values into a third variable. Printing out the above script would end with 
+>"Howdy Joe, please check your order."
+
+JavaScript can also get complex as more lines of code is added, but as with any language, it's all done according to proper logic. And since it's read top down, we can know in what order a script will be run and where on the page it will run from. There are quite a few different things that can be done with JavaScript. But for now, we at least know the basics of what a script is and how it's used.
 
 Using HTML, CSS and JavaScript together, you can create fun, dynamic web experiences that will keep your users engaged and give them reason to visit your page again in the future.
+
+Check out my [GitHub](https://github.com/penjoe)!

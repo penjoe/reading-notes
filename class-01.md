@@ -4,11 +4,11 @@
 
 ### Web Design Basics
 
-Modern web pages use a combination of programming languages to display what the end user see in their browser. The three rimary languages used for web pages are HTML, CSS and JavaScript. Each of the three languages have their own specific purpose. HTML provides the structure of the web page. This is the first thing the browser sees when you load a web page. Next, CSS adds styling to the HTML elements, adding visual appeal to a page. Finally, JavaScript adds function to a web page. These three languages together allow web developers to create visually appealing, dynamically functioning web experiences that the end user is able to enjoy simply by typing a web address into their browser. Lets take a look at how this all fits together.
+Modern web pages use a combination of programming languages to display what the end user see in their browser. The three primary languages used for web pages are HTML, CSS and JavaScript. Each of the three languages have their own specific purpose. HTML provides the structure of the web page. This is the first thing the browser sees when you load a web page. Next, CSS adds styling to the HTML elements, adding visual appeal to a page. Finally, JavaScript adds function to a web page. These three languages together allow web developers to create visually appealing, dynamically functioning web experiences that the end user is able to enjoy simply by typing a web address into their browser. Lets take a look at how this all fits together.
 
 ### HTML and CSS
 
-The first part of a web page is the HTML. This is the skeleton of the page that everything else layers onto. Using semantic tags, you can create a web page similar to how a newspaper would be layed out. There's a `<head>`, where basic page info is stored. Next is the `<body>` where you will add the bulk of the content. This can include a `<header>`, `<secion>`, `<article>` and various other tags to mark up a frame to add onto. Here's a small example of a basic HTML structure:
+The first part of a web page is the HTML. This is the skeleton of the page that everything else layers onto. Using semantic tags, you can create a web page similar to how a newspaper would be layed out. There's a `<head>`, where basic page info is stored. Next is the `<body>` where you will add the bulk of the content. This can include a `<header>`, `<section>`, `<article>` and various other tags to mark up a frame to add onto. Here's a small example of a basic HTML structure:
 ```
 <html>
 	<head>
@@ -31,7 +31,7 @@ body {
   background-color: blue;
 }
 ```
-That would change the background color blue when you loaded in the web page. And with CSS, you can get as specific as you want using `class` and `id` attributes to specify specific elements of your HTML. Since adding tons of CSS to your document could end up getting very messy, it's always best to put all of your CSS into a seperate file and link it to the HTML in the `<head>` element. 
+That would change the background color blue when you loaded in the web page. And with CSS, you can get as specific as you want using `class` and `id` attributes to specify specific elements of your HTML. Since adding tons of CSS to your document could end up getting very messy, it's always best to put all of your CSS into a separate file and link it to the HTML in the `<head>` element. 
 
 Using HTML and CSS, you can create a structure and give it an appealing presentation that will keep users on your page and give them reason to come back in the future. Using JavaScript, you can add yet another layer to your web page to give it more life and make it much more user friendly. 
 

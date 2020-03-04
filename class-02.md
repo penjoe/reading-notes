@@ -56,8 +56,8 @@ In the above example, if the score is greater than 50, you get a message that te
 ((5>2) && (2>=3))
 ```
 This is comparing the results of the two individual expressions and producing one true or false value. There are three main logical operators:
-* && - 'logical and' this tests more than one condition. It will always evalutate to false if at least one of its conditions value to false.
-* || - 'logical or' this tests at least one condition. If either expression values to true, then the result will value to true.
-* ! - 'logical not' this will take a single boolean value and invert it. It reverses the state of an expression.
+* `&&` - 'logical and' this tests more than one condition. It will always evaluate to false if at least one of its conditions value to false.
+* `||` - 'logical or' this tests at least one condition. If either expression values to true, then the result will value to true.
+* `!` - 'logical not' this will take a single boolean value and invert it. It reverses the state of an expression.
 
 The most important part of conditional logic is just to make sure that the logic being used makes sense. As it can get complex as more advanced scripts are written, this is very important to keep in mind.

@@ -5,8 +5,8 @@ This will be a collection of reading notes from ***Code 201***. Here I can organ
 > Photo by Thought Catalog on Unsplash
 
 ## Table of Contents:
-1. [Introductory HTML and JavaScript](https://penjoe.github.io/reading-notes/class-01)
-2. 
+1. [Class 01 Reading assignment](https://penjoe.github.io/reading-notes/class-01)
+2. [Class 02 Reading assignment](https://penjoe.github.io/reading-notes/class-02)
 3. 
 4. 
 5. 

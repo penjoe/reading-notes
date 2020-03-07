@@ -24,3 +24,24 @@ Using these three methods, you can change the color value of any element using C
 With the newest version of CSS, CSS3, you can also adjust color opacity. This is done with the RGBA property whereas the 'A' stands for alpha. Using a number between 0.0 and 1, you can change the opacity of your color to add yet another flavor to your web page. CSS3 has also added a color property called `hsl` and `hsla`. Hsla stands for hue, saturation, lightness and alpha. This just gives a further level of customization for adding color to a web page.
 
 ## HTML & CSS Chapter 12: Text
+
+The CSS properties that change the appearance of text are split in two main groups:
+* Those that directly change the font itself
+* Those that change the appearance of text regardless of the font type 
+
+First, when styling text on a page, you need to decide what font type you are going to use. There are a plethora of options as far as the actual typeface of the text. One thing to be aware of, however, is that not every user will have each and every typeface installed on their computer. So picking a common typeface is one way to ensure that everyone will be able to load the proper typeface. Another option is to give alternates. If you wanted to give the browser multiple typeface options and then also a generic default, you could use the font-family property:
+```
+p {
+  font-family: Georgia, Times, serif;
+}
+```
+The browser would automatically try and load in the `Georgia` typeface. If that wasn't available, it would try `Times`. If that also wasn't available, it would load in whatever default `serif` typeface was installed on the user's computer. 
+
+Aside from typeface, there are tons of options available when customizing text. You can change size using the `font-size` property. When changing size, it's important to note that there are sizing conventions for text. While you can technically do whatever you like, there are long established standards for text size. You can make your text bold italic, underlined or any number of other minor tweaks. Here are a few common properties used to style text using CSS:
+* `font-family`: allows several typeface options to be used as well as a type default
+* `font-size`: changes the size of the text either using pixel size, percentages or ems, which are a relative length unit
+* `font-weight`: allows you to create bold text
+font-style: allows italic font
+* `text-transform`: using the value of `uppercase`, `lowercase` or `capitalize`, you can make text all appear uppercase, lowercase, or first word capitalized respectively
+* text-decoration: this allows you to add or remove underline or overline, give text a strike through, or even animate the text to blink on and off
+* text-align: allows you to change how the text aligns within the element. This uses the `left`, `right`, `center` and `justify` values

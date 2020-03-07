@@ -9,7 +9,7 @@ This will be a collection of reading notes from ***Code 201***. Here I can organ
 2. [Class 02 Reading Assignment](https://penjoe.github.io/reading-notes/class-02)
 3. [Class 03 Reading Assignment](https://penjoe.github.io/reading-notes/class-03)
 4. [Class 04 Reading Assignment](https://penjoe.github.io/reading-notes/class-04)
-5. 
+5. [Class 05 Reading Assignment](https://penjoe.github.io/reading-notes/class-05)
 6. 
 7. 
 8. 

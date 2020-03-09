@@ -1,4 +1,4 @@
-# Class 05 Reading Notes
+# Class 06 Reading Notes
 
 [Home](https://penjoe.github.io/reading-notes/)
 

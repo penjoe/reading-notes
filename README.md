@@ -11,7 +11,7 @@ This will be a collection of reading notes from ***Code 201***. Here I can organ
 4. [Class 04 Reading Assignment](https://penjoe.github.io/reading-notes/class-04)
 5. [Class 05 Reading Assignment](https://penjoe.github.io/reading-notes/class-05)
 6. [Class 06 Reading Assignment](https://penjoe.github.io/reading-notes/class-06)
-7. 
+7. [Class 07 Reading Assignment](https://penjoe.github.io/reading-notes/class-07)
 8. 
 9. 
 10. 

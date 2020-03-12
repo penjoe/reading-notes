@@ -31,4 +31,4 @@ Some web designers will create more than one style sheet for each project. One m
 //At the top of the CSS page that links to the HTML:
 @import url('path to css file')
 ```
-As with any CSS rule, it always reads top down. So even between linked pages, The last rule read by the browser will be the one to be applied.
+As with any CSS rule, it always reads top down. So even between linked pages, The last rule read by the browser will be the one to be applied. The `<link>` or `@import` that comes last will be considered the 'bottom' of the cascade in CSS.

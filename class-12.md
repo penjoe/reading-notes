@@ -2,7 +2,7 @@
 
 [Home](https://penjoe.github.io/reading-notes/)
 
-## The <canvas> element:
+## The canvas element:
 
 * `<canvas>` is a built in API in html used for rendering drawings onto the page
 the `<canvas>` element acts much like an `<img>` element
